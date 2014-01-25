@@ -1,0 +1,7 @@
+{ "name":"vinyl-specfile"
+, "tags":["gulpplugin"]
+, "dependencies":
+	{ "through2":"*"
+	, "vinyl-fs":"*"
+	}
+}
